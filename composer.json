@@ -1,0 +1,23 @@
+{
+    "name": "jdubon/laravel",
+    "description": "Utilities package for Laravel",
+    "keywords": ["laravel","utilities"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jdubon\\Laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonathan Dubon",
+            "email": "jdubon.sv@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.0 || ^8.0",
+        "illuminate/support": "^7.0 || ^8.0",
+        "illuminate/http": "^7.0 || ^8.0"
+    }
+}
