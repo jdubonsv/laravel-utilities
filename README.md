@@ -1,7 +1,6 @@
 # Laravel Utilities
-Laravel Utilities
 
-This is a set of utilities for Laravel Lumen Micro framework.
-It contains a validation implementation and some useful traits
+This is a set of utilities for Laravel framework.
+It contains some useful traits and implementations.
 
 You can install it via composer: `composer require jdubon/laravel`
